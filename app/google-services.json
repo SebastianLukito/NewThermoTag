@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952782168174",
+    "project_id": "thermotag-f5e05",
+    "storage_bucket": "thermotag-f5e05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952782168174:android:e681507575fd908be0867f",
+        "android_client_info": {
+          "package_name": "com.sebastian.thermotag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLV5oIMgpIEUey29lUrQjXHegQHY2fwnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
